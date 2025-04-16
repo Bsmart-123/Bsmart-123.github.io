@@ -1,7 +1,8 @@
 # DevBlog Angular ✨
 
 [![GitHub Pages](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=flat-square)](https://bsmart-123.github.io/devblog-angular)
-[![Angular Version](https://img.shields.io/badge/Angular-19+-blue?style=flat-square&logo=angular)](https://angular.io/)
+[![image](https://github.com/user-attachments/assets/2cf5476f-923e-4adc-926a-a816133e1b9a)
+
 
 A personal developer blog built with **Angular 19**, designed to share coding insights, tutorials, and tech adventures with the world.
 
