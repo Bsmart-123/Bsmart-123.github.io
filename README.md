@@ -7,7 +7,7 @@
 A personal developer blog built with **Angular 19**, designed to share coding insights, tutorials, and tech adventures with the world.
 
 <p align="center">
-  <img src="https://placehold.co/600x400?text=Blog+Screenshot" alt="Preview" width="70%">
+
 </p>
 
 ## 🌟 Features
